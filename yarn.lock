@@ -647,13 +647,6 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-git@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/git/-/git-0.1.5.tgz#9ef62df93f851c27542143bf52d1c68b1017ca15"
-  integrity sha1-nvYt+T+FHCdUIUO/UtHGixAXyhU=
-  dependencies:
-    mime "1.2.9"
-
 github@^14.0.0:
   version "14.0.0"
   resolved "https://registry.yarnpkg.com/github/-/github-14.0.0.tgz#b707ed88c33cd05e155c785d289aa6229c59a850"
